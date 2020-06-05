@@ -28,6 +28,14 @@ Gaming utility.
 
 ## Group B
 
+### [locator](https://github.com/fal-works/locator)
+
+File system utility.
+
 ### [wronganswer](https://github.com/fal-works/wronganswer)
 
 Library for competitive programming.
+
+### [hlc-compiler](https://github.com/fal-works/hlc-compiler)
+
+Helps compile HashLink/C into executable.
