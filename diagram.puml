@@ -47,7 +47,7 @@ node banker [
 
 node broker [
   **[broker]**
-  Gaming utility
+  Gaming programming utility
   (Entity, Collision, Gamepad, Scene, ...)
 ]
 

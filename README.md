@@ -41,7 +41,7 @@ Data structures intended for games.
 
 ### [broker](https://github.com/fal-works/broker)
 
-Gaming utility.
+Game programming utility.
 
 
 ## For Specific Purposes
