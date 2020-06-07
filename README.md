@@ -1,36 +1,50 @@
-# FAL Haxe libraries
+# FAL Haxe Libraries
 
-## Group A
+## Overview
 
-### Lv. 1 - [sinker](https://github.com/fal-works/sinker)
+![Package diagram. Visit GitHub repo for details.](diagram.svg)
 
-Core utility.
+*This diagram shows only the nearest dependency relations.*  
+*In fact, almost all libraries above directly depend on **sinker** library.*
 
-### Lv. 2 - [prayer](https://github.com/fal-works/prayer)
+## Basic Utilities
 
-Macro utility.
+### [sinker](https://github.com/fal-works/sinker)
 
-### Lv. 3 - [sneaker](https://github.com/fal-works/sneaker)
-
-Assert, log and test.
-
-### Lv. 4 - [ripper](https://github.com/fal-works/ripper)
-
-Partial implementation of classes.
-
-### Lv. 5 - [banker](https://github.com/fal-works/banker)
-
-Data structures.
-
-### Lv. 6 - [broker](https://github.com/fal-works/broker)
-
-Gaming utility.
-
-## Group B
+Core utility. Basic types and extensions.
 
 ### [locator](https://github.com/fal-works/locator)
 
 File system utility.
+
+
+## Advanced Utilities
+
+### [prayer](https://github.com/fal-works/prayer)
+
+Macro utility.
+
+### [sneaker](https://github.com/fal-works/sneaker)
+
+Assert, log and test.
+
+### [ripper](https://github.com/fal-works/ripper)
+
+Partial implementation of classes.
+
+
+## Game Programming
+
+### [banker](https://github.com/fal-works/banker)
+
+Data structures intended for games.
+
+### [broker](https://github.com/fal-works/broker)
+
+Gaming utility.
+
+
+## For Specific Purposes
 
 ### [wronganswer](https://github.com/fal-works/wronganswer)
 

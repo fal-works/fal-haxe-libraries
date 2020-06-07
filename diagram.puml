@@ -1,0 +1,80 @@
+@startuml diagram
+
+' ---- (style) --------------------------------
+
+skinparam shadowing false
+skinparam backgroundColor White
+skinparam node {
+  BackgroundColor #FDFDFD
+  BorderColor #D0D0D0
+  FontColor #202020
+}
+skinparam ArrowColor #808080
+skinparam note {
+  BackgroundColor White
+  FontColor #606060
+  BorderColor #C0C0C0
+}
+
+' ---- (diagram) ------------------------------
+
+node sinker [
+  **[sinker]**
+  Basic types and extensions
+]
+
+node prayer [
+  **[prayer]**
+  Macro utility
+]
+
+node sneaker [
+  **[sneaker]**
+  - Assertion
+  - Logging
+  - Unit test
+]
+
+node ripper [
+  **[ripper]**
+  Partial implementation of classes
+]
+
+node banker [
+  **[banker]**
+  Data structures
+]
+
+node broker [
+  **[broker]**
+  Gaming utility
+  (Entity, Collision, Gamepad, Scene, ...)
+]
+
+node locator [
+  **[locator]**
+  File system utility
+]
+
+node wronganswer [
+  **[wronganswer]**
+  Competitive
+  programming
+]
+
+node hlc_compiler [
+  **[hlc-compiler]**
+  Compile HL/C
+]
+
+sinker <.. prayer
+prayer <.. sneaker
+sneaker <.. ripper
+ripper <.. banker
+banker <.. broker
+
+sinker <.. locator
+locator <.. wronganswer
+locator <.. hlc_compiler
+
+@enduml

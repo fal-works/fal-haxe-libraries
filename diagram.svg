@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="762px" preserveAspectRatio="none" style="width:578px;height:762px;" version="1.1" viewBox="0 0 578 762" width="578px" zoomAndPan="magnify"><defs/><g><!--MD5=[2e2f4e1d7a5de68f564c5fd59ae133df]
+entity sinker--><polygon fill="#FDFDFD" points="125.5,18,135.5,8,336.5,8,336.5,63.2188,326.5,73.2188,125.5,73.2188,125.5,18" style="stroke: #D0D0D0; stroke-width: 1.5;"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="326.5" x2="335.5" y1="18" y2="9"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="125.5" x2="326.5" y1="18" y2="18"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="326.5" x2="326.5" y1="18" y2="73.2188"/><text fill="#202020" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="54" x="140.5" y="42.5332">[sinker]</text><text fill="#202020" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="171" x="140.5" y="60.1426">Basic types and extensions</text><!--MD5=[3861a36c2112e8a0e866ae95aca4a241]
+entity prayer--><polygon fill="#FDFDFD" points="90.5,143,100.5,133,205.5,133,205.5,188.2188,195.5,198.2188,90.5,198.2188,90.5,143" style="stroke: #D0D0D0; stroke-width: 1.5;"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="195.5" x2="204.5" y1="143" y2="134"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="90.5" x2="195.5" y1="143" y2="143"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="195.5" x2="195.5" y1="143" y2="198.2188"/><text fill="#202020" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="55" x="105.5" y="167.5332">[prayer]</text><text fill="#202020" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="75" x="105.5" y="185.1426">Macro utility</text><!--MD5=[e63671647d2a27984ad6837a36ad44b3]
+entity sneaker--><polygon fill="#FDFDFD" points="94,268,104,258,202,258,202,348.4375,192,358.4375,94,358.4375,94,268" style="stroke: #D0D0D0; stroke-width: 1.5;"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="192" x2="201" y1="268" y2="259"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="94" x2="192" y1="268" y2="268"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="192" x2="192" y1="268" y2="358.4375"/><text fill="#202020" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="67" x="109" y="292.5332">[sneaker]</text><text fill="#202020" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="68" x="109" y="310.1426">- Assertion</text><text fill="#202020" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="60" x="109" y="327.752">- Logging</text><text fill="#202020" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="60" x="109" y="345.3613">- Unit test</text><!--MD5=[6f1c1e0618e0690fd2ee1245e9fed688]
+entity ripper--><polygon fill="#FDFDFD" points="25,428,35,418,271,418,271,473.2188,261,483.2188,25,483.2188,25,428" style="stroke: #D0D0D0; stroke-width: 1.5;"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="261" x2="270" y1="428" y2="419"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="25" x2="261" y1="428" y2="428"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="261" x2="261" y1="428" y2="483.2188"/><text fill="#202020" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="53" x="40" y="452.5332">[ripper]</text><text fill="#202020" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="206" x="40" y="470.1426">Partial implementation of classes</text><!--MD5=[68901c361d0d0b317b2d874379863fc4]
+entity banker--><polygon fill="#FDFDFD" points="79.5,553,89.5,543,216.5,543,216.5,598.2188,206.5,608.2188,79.5,608.2188,79.5,553" style="stroke: #D0D0D0; stroke-width: 1.5;"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="206.5" x2="215.5" y1="553" y2="544"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="79.5" x2="206.5" y1="553" y2="553"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="206.5" x2="206.5" y1="553" y2="608.2188"/><text fill="#202020" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="59" x="94.5" y="577.5332">[banker]</text><text fill="#202020" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="97" x="94.5" y="595.1426">Data structures</text><!--MD5=[e701bbac852ce3c7f1c3d2193e52d58f]
+entity broker--><polygon fill="#FDFDFD" points="6,678,16,668,290,668,290,740.8281,280,750.8281,6,750.8281,6,678" style="stroke: #D0D0D0; stroke-width: 1.5;"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="280" x2="289" y1="678" y2="669"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="6" x2="280" y1="678" y2="678"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="280" x2="280" y1="678" y2="750.8281"/><text fill="#202020" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="57" x="21" y="702.5332">[broker]</text><text fill="#202020" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="85" x="21" y="720.1426">Gaming utility</text><text fill="#202020" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="244" x="21" y="737.752">(Entity, Collision, Gamepad, Scene, ...)</text><!--MD5=[86550f1cfd8dba1ec188e76c59aa4094]
+entity locator--><polygon fill="#FDFDFD" points="240.5,143,250.5,133,387.5,133,387.5,188.2188,377.5,198.2188,240.5,198.2188,240.5,143" style="stroke: #D0D0D0; stroke-width: 1.5;"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="377.5" x2="386.5" y1="143" y2="134"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="240.5" x2="377.5" y1="143" y2="143"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="377.5" x2="377.5" y1="143" y2="198.2188"/><text fill="#202020" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="59" x="255.5" y="167.5332">[locator]</text><text fill="#202020" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="107" x="255.5" y="185.1426">File system utility</text><!--MD5=[e885fdf926e00c05037b4edca1894181]
+entity wronganswer--><polygon fill="#FDFDFD" points="239.5,276.5,249.5,266.5,384.5,266.5,384.5,339.3281,374.5,349.3281,239.5,349.3281,239.5,276.5" style="stroke: #D0D0D0; stroke-width: 1.5;"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="374.5" x2="383.5" y1="276.5" y2="267.5"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="239.5" x2="374.5" y1="276.5" y2="276.5"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="374.5" x2="374.5" y1="276.5" y2="349.3281"/><text fill="#202020" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="105" x="254.5" y="301.0332">[wronganswer]</text><text fill="#202020" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="74" x="254.5" y="318.6426">Competitive</text><text fill="#202020" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="83" x="254.5" y="336.252">programming</text><!--MD5=[1f32bbe277c8e0599fc65934b7086d5d]
+entity hlc_compiler--><polygon fill="#FDFDFD" points="419.5,285.5,429.5,275.5,556.5,275.5,556.5,330.7188,546.5,340.7188,419.5,340.7188,419.5,285.5" style="stroke: #D0D0D0; stroke-width: 1.5;"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="546.5" x2="555.5" y1="285.5" y2="276.5"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="419.5" x2="546.5" y1="285.5" y2="285.5"/><line style="stroke: #D0D0D0; stroke-width: 1.5;" x1="546.5" x2="546.5" y1="285.5" y2="340.7188"/><text fill="#202020" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="97" x="434.5" y="310.0332">[hlc-compiler]</text><text fill="#202020" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="86" x="434.5" y="327.6426">Compile HL/C</text><!--MD5=[401e3affb1b83abf6a53b393bb902add]
+reverse link sinker to prayer--><path d="M206.666,77.561 C194.823,95.112 180.715,116.019 169.302,132.932 " fill="none" id="sinker&lt;-prayer" style="stroke: #808080; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#808080" points="209.625,73.176,201.2746,78.3981,206.8278,77.3204,207.9055,82.8736,209.625,73.176" style="stroke: #808080; stroke-width: 1.0;"/><!--MD5=[39c5327ec1af7e7af05725962c8b0077]
+reverse link prayer to sneaker--><path d="M148,203.11 C148,219.842 148,239.905 148,257.92 " fill="none" id="prayer&lt;-sneaker" style="stroke: #808080; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#808080" points="148,198.031,144,207.031,148,203.031,152,207.031,148,198.031" style="stroke: #808080; stroke-width: 1.0;"/><!--MD5=[b1e65b35afdb85d61252a3f37458c018]
+reverse link sneaker to ripper--><path d="M148,363.29 C148,381.712 148,401.68 148,417.756 " fill="none" id="sneaker&lt;-ripper" style="stroke: #808080; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#808080" points="148,358.14,144,367.14,148,363.14,152,367.14,148,358.14" style="stroke: #808080; stroke-width: 1.0;"/><!--MD5=[e6a71dd387f4f636d7c18f316acb260d]
+reverse link ripper to banker--><path d="M148,488.456 C148,505.82 148,526.306 148,542.932 " fill="none" id="ripper&lt;-banker" style="stroke: #808080; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#808080" points="148,483.176,144,492.176,148,488.176,152,492.176,148,483.176" style="stroke: #808080; stroke-width: 1.0;"/><!--MD5=[eacca0837ac10307af44737c6ccf80aa]
+reverse link banker to broker--><path d="M148,613.253 C148,630.155 148,650.264 148,667.6398 " fill="none" id="banker&lt;-broker" style="stroke: #808080; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#808080" points="148,608.117,144,617.117,148,613.117,152,617.117,148,608.117" style="stroke: #808080; stroke-width: 1.0;"/><!--MD5=[721104b2fb4e3bd76ae811f11db85ce4]
+reverse link sinker to locator--><path d="M255.334,77.561 C267.177,95.112 281.285,116.019 292.698,132.932 " fill="none" id="sinker&lt;-locator" style="stroke: #808080; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#808080" points="252.375,73.176,254.0945,82.8736,255.1722,77.3204,260.7254,78.3981,252.375,73.176" style="stroke: #808080; stroke-width: 1.0;"/><!--MD5=[baf642f327d9ceb6f8a20989207754b0]
+reverse link locator to wronganswer--><path d="M313.475,203.377 C313.199,222.77 312.86,246.583 312.577,266.49 " fill="none" id="locator&lt;-wronganswer" style="stroke: #808080; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#808080" points="313.551,198.031,309.4228,206.9729,313.4796,203.0305,317.422,207.0872,313.551,198.031" style="stroke: #808080; stroke-width: 1.0;"/><!--MD5=[0224da154ca6addc14f544bb92d5c89e]
+reverse link locator to hlc_compiler--><path d="M357.129,201.325 C385.2,223.992 421.525,253.323 448.781,275.332 " fill="none" id="locator&lt;-hlc_compiler" style="stroke: #808080; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#808080" points="353.049,198.031,357.5378,206.7975,356.9389,201.1724,362.564,200.5735,353.049,198.031" style="stroke: #808080; stroke-width: 1.0;"/><!--MD5=[c07849258236e7def1ef7b54ca0c7daa]
+@startuml diagram
+
+' - - - - (style) - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+skinparam shadowing false
+skinparam backgroundColor White
+skinparam node {
+  BackgroundColor #FDFDFD
+  BorderColor #D0D0D0
+  FontColor #202020
+}
+skinparam ArrowColor #808080
+skinparam note {
+  BackgroundColor White
+  FontColor #606060
+  BorderColor #C0C0C0
+}
+
+' - - - - (diagram) - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+node sinker [
+  **[sinker]**
+  Basic types and extensions
+]
+
+node prayer [
+  **[prayer]**
+  Macro utility
+]
+
+node sneaker [
+  **[sneaker]**
+  - Assertion
+  - Logging
+  - Unit test
+]
+
+node ripper [
+  **[ripper]**
+  Partial implementation of classes
+]
+
+node banker [
+  **[banker]**
+  Data structures
+]
+
+node broker [
+  **[broker]**
+  Gaming utility
+  (Entity, Collision, Gamepad, Scene, ...)
+]
+
+node locator [
+  **[locator]**
+  File system utility
+]
+
+node wronganswer [
+  **[wronganswer]**
+  Competitive
+  programming
+]
+
+node hlc_compiler [
+  **[hlc-compiler]**
+  Compile HL/C
+]
+
+sinker <.. prayer
+prayer <.. sneaker
+sneaker <.. ripper
+ripper <.. banker
+banker <.. broker
+
+sinker <.. locator
+locator <.. wronganswer
+locator <.. hlc_compiler
+
+@enduml
+
+@startuml diagram
+
+
+skinparam shadowing false
+skinparam backgroundColor White
+skinparam node {
+  BackgroundColor #FDFDFD
+  BorderColor #D0D0D0
+  FontColor #202020
+}
+skinparam ArrowColor #808080
+skinparam note {
+  BackgroundColor White
+  FontColor #606060
+  BorderColor #C0C0C0
+}
+
+
+node sinker [
+  **[sinker]**
+  Basic types and extensions
+]
+
+node prayer [
+  **[prayer]**
+  Macro utility
+]
+
+node sneaker [
+  **[sneaker]**
+  - Assertion
+  - Logging
+  - Unit test
+]
+
+node ripper [
+  **[ripper]**
+  Partial implementation of classes
+]
+
+node banker [
+  **[banker]**
+  Data structures
+]
+
+node broker [
+  **[broker]**
+  Gaming utility
+  (Entity, Collision, Gamepad, Scene, ...)
+]
+
+node locator [
+  **[locator]**
+  File system utility
+]
+
+node wronganswer [
+  **[wronganswer]**
+  Competitive
+  programming
+]
+
+node hlc_compiler [
+  **[hlc-compiler]**
+  Compile HL/C
+]
+
+sinker <.. prayer
+prayer <.. sneaker
+sneaker <.. ripper
+ripper <.. banker
+banker <.. broker
+
+sinker <.. locator
+locator <.. wronganswer
+locator <.. hlc_compiler
+
+@enduml
+
+PlantUML version 1.2020.10(Sun May 17 18:35:57 GMT+09:00 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 1.8.0_252-b09
+Operating System: Windows 10
+Default Encoding: MS932
+Language: ja
+Country: JP
+--></g></svg>
