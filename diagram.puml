@@ -51,6 +51,11 @@ node broker [
   (Entity, Collision, Gamepad, Scene, ...)
 ]
 
+node greeter [
+  **[greeter]**
+  Command line parser/builder
+]
+
 node locator [
   **[locator]**
   File system utility
@@ -73,7 +78,8 @@ sneaker <.. ripper
 ripper <.. banker
 banker <.. broker
 
-sinker <.. locator
+sinker <.. greeter
+greeter <.. locator
 locator <.. wronganswer
 locator <.. hlc_compiler
 

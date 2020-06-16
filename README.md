@@ -13,6 +13,10 @@
 
 Core utility. Basic types and extensions.
 
+### [greeter](https://github.com/fal-works/greeter)
+
+Command line parser/builder.
+
 ### [locator](https://github.com/fal-works/locator)
 
 File system utility.
