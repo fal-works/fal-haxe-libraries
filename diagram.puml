@@ -72,6 +72,11 @@ node hlc_compiler [
   Compile HL/C
 ]
 
+node reckoner [
+  **[reckoner]**
+  Math / 2D Geometry
+]
+
 sinker <.. prayer
 prayer <.. sneaker
 sneaker <.. ripper
@@ -82,5 +87,7 @@ sinker <.. greeter
 greeter <.. locator
 locator <.. wronganswer
 locator <.. hlc_compiler
+
+sinker <.. reckoner
 
 @enduml

@@ -21,6 +21,10 @@ Command line parser/builder.
 
 File system utility.
 
+### [reckoner](https://github.com/fal-works/reckoner)
+
+Utility for math and 2D geometry.
+
 
 ## Advanced Utilities
 
