@@ -51,6 +51,14 @@ Data structures intended for games.
 
 Game programming utility.
 
+### [firedancer](https://github.com/fal-works/firedancer)
+
+Define/compile 2D shmups bullet-hell patterns.
+
+### [firedancer-vm](https://github.com/fal-works/firedancer-vm)
+
+Virtual machine for running Firedancer programs.
+
 
 ## For Specific Purposes
 

@@ -51,6 +51,23 @@ node broker [
   (Entity, Collision, Gamepad, Scene, ...)
 ]
 
+node reckoner [
+  **[reckoner]**
+  Math / 2D Geometry
+]
+
+node firedancer_vm [
+  **[firedancer-vm]**
+  Vitual machine for
+  Firedancer
+]
+
+node firedancer [
+  **[firedancer]**
+  Define/compile 2D shmups
+  bullet-hell patterns
+]
+
 node greeter [
   **[greeter]**
   Command line parser/builder
@@ -72,22 +89,21 @@ node hlc_compiler [
   Compile HL/C
 ]
 
-node reckoner [
-  **[reckoner]**
-  Math / 2D Geometry
-]
-
 sinker <.. prayer
 prayer <.. sneaker
 sneaker <.. ripper
 ripper <.. banker
 banker <.. broker
 
+sinker <.. reckoner
+
+banker <.. firedancer_vm
+reckoner <.. firedancer_vm
+firedancer_vm <.. firedancer
+
 sinker <.. greeter
 greeter <.. locator
 locator <.. wronganswer
 locator <.. hlc_compiler
-
-sinker <.. reckoner
 
 @enduml
